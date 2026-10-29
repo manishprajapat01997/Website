@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="sk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9c6ff"/><stop offset="1" stop-color="#fff0fa"/></linearGradient>
+<linearGradient id="gr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cdb6f2"/><stop offset="1" stop-color="#bfa2ec"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#sk)"/><circle cx="650" cy="110" r="52" fill="#ffd34d" opacity=".95"/><circle cx="650" cy="110" r="78" fill="#ffd34d" opacity=".25"/><path d="M0 330 Q120 300 240 325 T480 320 T800 318 V500 H0Z" fill="#cf9a4a" opacity=".5"/><rect y="360" width="800" height="140" fill="url(#gr)"/>
+<g fill="#7a3fd1" opacity=".9"><path d="M300 130 v200 a40 30 0 1 1 -20 -26 v-150 l180 -40 v150 a40 30 0 1 1 -20 -26 v-170z"/></g>
+<g fill="#ff7a59"><circle cx="560" cy="200" r="34"/><rect x="530" y="210" width="60" height="50" rx="8"/></g><g fill="#ffd34d"><path d="M180 200 l7 16 16 7 -16 7 -7 16 -7 -16 -16 -7 16 -7z"/></g>
+<text x="400" y="440" font-size="34" fill="#5a2a9a" text-anchor="middle" font-family="sans-serif" font-weight="800">कला · संगीत · खेल · प्रतिभा</text></svg>
